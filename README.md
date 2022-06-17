@@ -1,34 +1,19 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 
-<h2>My name is <bold>Domenico</bold> and welcome to my coding space!</h2>
-<a href="https://www.youtube.com/c/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo's YouTube" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/40e4ae6aa6f71637f85236a7c669ca4a030f9352/images/youtube.png" />
-</a>
-<a href="https://www.instagram.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo's Instagram" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/solazzo">
+<h2>My name is <bold>Matric</bold> and welcome to my coding space!</h2>
+<a href="https://www.linkedin.com/in/matricbastos">
   <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/linkedin.png" />
-</a>
-<a href="https://twitter.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/twitter.png" />
-</a>
-<a href="https://www.facebook.com/domenicosolazzo.labs">
-  <img align="left" alt="domenicosolazzo's Facebook" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/facebook.png" />
 </a>
 
 <br />
 <br />
 This is the place where I code stuff and break things :rofl:
 
-- 🔭 I’m currently working as Engineering Manager :wink:
-- 🌱 I’m currently learning Java, Tailwind, Kubernetes, Leadership and how to build High-Performant Teams
-- 💬 Ask me anything related to Software Development
-- 📫 How to reach me: [@domenicosolazzo](https://twitter.com/domenicosolazzo)
-- ⚡ Fun fact: I :heart: to cook!
+- 🔭 I’m currently working as FullStack Development JR :wink:
+- 🌱 I’m currently learning React.js, Tailwind, AWS, Kubernetes and Jenkins
 
-<img src="https://media.giphy.com/media/3osxYamKD88c6pXdfO/giphy.gif">
+<img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" />
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -52,27 +37,10 @@ This is the place where I code stuff and break things :rofl:
 <h2>Stats</h2>
 <table>
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=domenicosolazzo&show_icons=true&count_private=true"></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenicosolazzo&layout=compact&hide=perl,c"</td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=matricbts&show_icons=true&count_private=true"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matricbts&layout=compact&hide=perl,c"</td>
     </tr>
 </table>
 
-
-<h2>🚀 Where you can find me</h2>
-<a href="https://www.youtube.com/c/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo's YouTube" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/40e4ae6aa6f71637f85236a7c669ca4a030f9352/images/youtube.png" />
-</a>
-<a href="https://www.instagram.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo's Instagram" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/solazzo">
-  <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/linkedin.png" />
-</a>
-<a href="https://twitter.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/twitter.png" />
-</a>
-<a href="https://www.facebook.com/domenicosolazzo.labs">
-  <img align="left" alt="domenicosolazzo's Facebook" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/facebook.png" />
-</a>
 
 <br />
