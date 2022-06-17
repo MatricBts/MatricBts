@@ -1,6 +1,3 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
-
 <h2>My name is <bold>Matric</bold> and welcome to my coding space!</h2>
 <table>
     <tr>
@@ -16,8 +13,8 @@
 <br />
 This is the place where I code stuff and break things :rofl:
 
-- 🔭 I’m currently working as FullStack Development JR :wink:
-- 🌱 I’m currently learning React.js, Tailwind, AWS, Kubernetes and Jenkins
+- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:
+- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins
 
 <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" />
 
