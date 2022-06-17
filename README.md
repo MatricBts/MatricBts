@@ -16,9 +16,7 @@
         </tr>
     </table>
 
-
     <br />
-
 
     <h3>🚀 Ferramentas que utilizei profissionalmente:</h3>
 
