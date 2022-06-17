@@ -1,6 +1,10 @@
 <h2>My name is <bold>Matric</bold> and welcome to my coding space!</h2>
-- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:
-- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins
+<ul>
+    <li>- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:</li>
+    <li>- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins</li>
+</ul>
+
+
 <table>
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=matricbts&show_icons=true&count_private=true"></td>
