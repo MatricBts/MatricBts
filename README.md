@@ -5,9 +5,6 @@
 </ul>
 
 <div align="center"> 
-<h3>Aqui tem um pouco dos meus códigos</h3>
-
-
 
 <table>
     <tr>
