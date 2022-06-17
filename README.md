@@ -1,7 +1,6 @@
 <h2>Olá, meu nome é <bold>Matric</bold>!</h2>
 <ul>
-    <li>- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:</li>
-    <li>- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins</li>
+    <li>- Desenvolvedor FullStack JR :wink:</li>
 </ul>
 <div display="flex" flex-direction="row">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -33,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
 
 
-<h3> Já fiz projetos para adquirir conhecimento utilzando: </h3>
+<h3> :books: Já fiz projetos para adquirir conhecimento utilzando: </h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="60" height="60"/>
@@ -42,7 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="60" height="60"/>
 
 
-<h3> Atualmente estou estudando: </h3>
+<h3> :open_book: Atualmente estou estudando: </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
 
 </div>
