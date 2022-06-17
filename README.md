@@ -3,11 +3,11 @@
     <li>- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:</li>
     <li>- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins</li>
 </ul>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+
 
 <div align="center">   
     <h2>Aqui tem um pouco sobre minhas skills</h2>
+    
     <table>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=matricbts&show_icons=true&count_private=true"></td>
