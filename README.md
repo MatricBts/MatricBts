@@ -6,6 +6,8 @@
 
 <div align="center"> 
 
+<h2>Aqui tem um pouco sobre minhas skills</h2>
+    
 <table>
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=matricbts&show_icons=true&count_private=true"></td>
@@ -20,7 +22,7 @@
 
 
 
-<h2>🚀 Ferramentas que utilizei profissionalmente</h2>
+<h3>🚀 Ferramentas que utilizei profissionalmente</h3>
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
