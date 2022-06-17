@@ -1,9 +1,12 @@
 <h2>Olá, meu nome é <bold>Matric</bold>!</h2>
-<h3>Aqui tem um pouco dos meus códigos</h3>
 <ul>
     <li>- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:</li>
     <li>- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins</li>
 </ul>
+
+<div align="center> 
+<h3>Aqui tem um pouco dos meus códigos</h3>
+
 
 
 <table>
@@ -43,6 +46,6 @@
 
 <h2>Stats</h2>
 
-
+</div>
 
 <br />
