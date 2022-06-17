@@ -2,6 +2,12 @@
 
 
 <h2>My name is <bold>Matric</bold> and welcome to my coding space!</h2>
+<table>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=matricbts&show_icons=true&count_private=true"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matricbts&layout=compact&hide=perl,c"</td>
+    </tr>
+</table>
 <a href="https://www.linkedin.com/in/matricbastos">
   <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/linkedin.png" />
 </a>
@@ -35,12 +41,7 @@ This is the place where I code stuff and break things :rofl:
 </p>
 
 <h2>Stats</h2>
-<table>
-    <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=matricbts&show_icons=true&count_private=true"></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matricbts&layout=compact&hide=perl,c"</td>
-    </tr>
-</table>
+
 
 
 <br />
