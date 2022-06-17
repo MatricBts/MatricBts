@@ -1,4 +1,6 @@
 <h2>My name is <bold>Matric</bold> and welcome to my coding space!</h2>
+- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:
+- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins
 <table>
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=matricbts&show_icons=true&count_private=true"></td>
@@ -11,10 +13,7 @@
 
 <br />
 <br />
-This is the place where I code stuff and break things :rofl:
 
-- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:
-- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins
 
 <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" />
 
