@@ -8,7 +8,6 @@
 
 <div align="center">   
     <h2>Aqui tem um pouco sobre minhas skills</h2>
-
     <table>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=matricbts&show_icons=true&count_private=true"></td>
