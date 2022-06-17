@@ -1,4 +1,5 @@
-<h2>My name is <bold>Matric</bold> and welcome to my coding space!</h2>
+<h2>Olá, meu nome é <bold>Matric</bold>!</h2>
+<h3>Aqui tem um pouco dos meus códigos</h3>
 <ul>
     <li>- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:</li>
     <li>- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins</li>
