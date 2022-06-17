@@ -3,9 +3,11 @@
     <li>- 🔭 Hoje trabalho como Desenvolvedor FullStack JR :wink:</li>
     <li>- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins</li>
 </ul>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ 
 <div align="center">   
 <h2>Aqui tem um pouco sobre minhas skills</h2>
 
@@ -41,5 +43,5 @@
 <h3> Atualmente estou estudando: </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
 
-
+</div>
 <br />
