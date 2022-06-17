@@ -4,7 +4,7 @@
     <li>- 🌱 Estou estudando React.js, Tailwind, AWS, Kubernetes and Jenkins</li>
 </ul>
 
-<div align="center> 
+<div align="center"> 
 <h3>Aqui tem um pouco dos meus códigos</h3>
 
 
