@@ -1,6 +1,6 @@
 <h2>Olá, meu nome é <bold>Matric</bold>!</h2>
 <ul>
-    <li>- Desenvolvedor FullStack JR :wink:</li>
+    <li>- Devops e Desenvolvedor BackEnd :wink:</li>
 </ul>
 
 <div display="flex" flex-direction="row">
